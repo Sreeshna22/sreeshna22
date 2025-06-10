@@ -1,16 +1,25 @@
-## Hi there 👋
+🎓 Full-stack Web Developer | 🌱 Lifelong Learner | 💡 Passionate about Tech
 
-<!--
-**Sreeshna22/sreeshna22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+👋 Hi, I'm Sreeshna R
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning blockchain 
+- 🔭 I’m building full-stack web applications
+- 💬 Ask me about **Python**, **HTML**, **CSS**, and **JavaScript**
+- 📫 Reach me at: **sreeshnarsreee@gmail.com**
+- 
+📚 Education
+- 🎓 B.Tech in Electronics and Communication Engineering
+
+### 🔧 Technologies & Tools
+
+- Python | HTML | CSS | JavaScript
+- Django | Bootstrap | MongoDB | MySQL
+- Git | GitHub | VS Code | PyCharm
+
+---
+
+### 🔗 Connect With Me
+
+- [LinkedIn](https://www.linkedin.com/in/sreeshna-r-42
+  
