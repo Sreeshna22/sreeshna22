@@ -21,5 +21,6 @@
 
 ### 🔗 Connect With Me
 
-- [LinkedIn](https://www.linkedin.com/in/sreeshna-r-42
-  
+http://www.linkedin.com/in/sreeshna-r-42b076260  
+
+_Thanks for visiting my profile!_ ✨
