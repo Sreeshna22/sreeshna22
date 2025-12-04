@@ -1,4 +1,4 @@
-![Banner](https://raw.githubusercontent.com/sreeshna22/sreeshna22/main/banner.png)
+
 
 
 # ✨ Sreeshna R — Full-Stack Developer | Blockchain Enthusiast
