@@ -1,4 +1,4 @@
-![Banner](https://yourimageurl.com/banner.png)
+![Banner](https://raw.githubusercontent.com/sreeshna22/YOUR-USERNAME/main/banner.png)
 
 # ✨ Sreeshna R — Full-Stack Developer | Blockchain Enthusiast
 
@@ -42,7 +42,6 @@ Hi there! I'm an enthusiastic **Blockchain & Full-Stack Developer** who thrives 
 <img src="https://img.shields.io/badge/MetaMask-F6851B?style=for-the-badge&logo=metamask&logoColor=white" /> 
 <img src="https://img.shields.io/badge/Hardhat-FDDB33?style=for-the-badge&logo=hardhat&logoColor=000" /> 
 <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" /> 
-<img src="https://img.shields.io/badge/Hyperledger_Fabric-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> 
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
 
