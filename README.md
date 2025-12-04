@@ -1,4 +1,4 @@
-Sreeshna R — Full-Stack Developer | Blockchain Enthusiast
+✨ Sreeshna R — Full-Stack Developer | Blockchain Enthusiast
 🚀 Tech I Love & Use
 <div align="center">
 🌐 Frontend
@@ -28,18 +28,14 @@ Sreeshna R — Full-Stack Developer | Blockchain Enthusiast
 🔧 Technologies & Tools
 
 Languages: Python, HTML, CSS, JavaScript
-
 Frameworks: Django, Bootstrap, React, Express.js
-
 Databases: MongoDB, MySQL
-
 Tools: Git, GitHub, VS Code, PyCharm
-
 Blockchain: Ethereum, Solidity, Hardhat, MetaMask, Hyperledger Fabric
 
 🔗 Connect With Me
 
 🔗 LinkedIn:
-www.linkedin.com/in/sreeshna-r-42b076260
+https://www.linkedin.com/in/sreeshna-r-42b076260
 
-✨ Thanks for visiting my profile!
+✨ Thanks for visiting my profile! ✨
